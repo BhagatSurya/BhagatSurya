@@ -12,12 +12,10 @@ It's Bhagat Surya from India, I am a passionate data science practitioner. I've 
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Seborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
 <img align="left" alt="Open cv" width="30px" style="padding-right:10px;" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" />
-<img align="left" alt="GCP" width="150px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/768px-Google_Cloud_logo.svg.png?20210208232155" />
+<img align="left" alt="GCP" width="50px" style="padding-right:10px;" src="https://www.pngfind.com/pngs/m/307-3079051_blockapps-partners-with-google-cloud-platform-to-provide.png" />
  </p>
- <br>
 
- 
-<h3 align="left">Find me🔎</h3>
+<h3 align="left">🔎Find me</h3>
 <a href="https://www.linkedin.com/in/Bhagatsurya/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagat surya" height="30" width="40" /></a> 
 <a href="https://www.facebook.com/profile.php?id=100075200469528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhagath surya anuradha" height="30" width="40" /></a>
 <a href="https://instagram.com/bhagat_surya_anuradha" target="blank"><img align="center" src="https://github.com/BhagatSurya/BhagatSurya/blob/main/icons8-instagram-48.png" height="40" width="40" /></a>
