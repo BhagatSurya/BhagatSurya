@@ -17,6 +17,7 @@ It's Bhagat Surya from India, I am a passionate data science practitioner. I've 
  
  #
 
+
 ### Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/Bhagatsurya/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagat surya" height="30" width="40" /></a> 
 <a href="https://www.facebook.com/profile.php?id=100075200469528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhagath surya anuradha" height="30" width="40" /></a>
