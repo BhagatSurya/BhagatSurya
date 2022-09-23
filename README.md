@@ -11,8 +11,8 @@ It's Bhagat Surya from India I am a passionate data science practitioner. I've b
 <img align="left" alt="Seborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
 <img align="left" alt="Open cv" width="30px" style="padding-right:10px;" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" />
 <img align="left" alt="GCP" width="150px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/768px-Google_Cloud_logo.svg.png?20210208232155" />
-<br>	
 
+#
 
 <h3 align="left">👋Connect with me </h3>
 <a href="https://twitter.com/bhagatsurya2" target="blank"><img align="center" src="https://github.com/BhagatSurya/BhagatSurya/blob/main/icons8-twitter-squared-48.png" alt="bhagatsurya2" height="40" width="40" /></a>
@@ -23,7 +23,6 @@ It's Bhagat Surya from India I am a passionate data science practitioner. I've b
 <a href="https://medium.com/@bhagatsurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhagatsurya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bhagat surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bhagat surya" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Star ⭐</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatsurya&" alt="bhagatsurya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagatsurya&show_icons=true&locale=en" alt="bhagatsurya" /></p>
