@@ -1,4 +1,5 @@
 ![ScreenShot](https://github.com/BhagatSurya/BhagatSurya/blob/99c4a47e075c952473599f56173881531cd66811/banner%20(1).png)
+
 ## 🛸 About Me
 It's Bhagat Surya from India, I am a passionate data science practitioner. I've been practicing since I was 18 years old. My love for computers is immeasurable. I enjoy studying psychology and anthropology. I started at a young age because I wanted an answer to one particular question that was promoting me. That was "How Humans Think." Can We Replicate a Digital Human Brain 🧠 ? This made me take AI as an answer to every question I wondered about the brain. Let's see where this journey takes me 🌊
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagatsurya&label=Profile%20views&color=0e75b6&style=flat" alt="bhagatsurya" /> </p>
@@ -13,8 +14,6 @@ It's Bhagat Surya from India, I am a passionate data science practitioner. I've 
 <img align="left" alt="Open cv" width="30px" style="padding-right:10px;" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" />
 <img align="left" alt="GCP" width="150px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/768px-Google_Cloud_logo.svg.png?20210208232155" />
  </p>
- 
- - I’m currently learning **Rasa, MLflow, DVC and Big Data**
 
 ### Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/Bhagatsurya/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagat surya" height="30" width="40" /></a> 
