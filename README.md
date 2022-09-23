@@ -13,8 +13,8 @@ It's Bhagat Surya from India I am a passionate data science practitioner. I've b
 <img align="left" alt="GCP" width="150px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/768px-Google_Cloud_logo.svg.png?20210208232155" />
 <br>	
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="left"> 👋Connect with me </h3>
 <a href="https://twitter.com/bhagatsurya2" target="blank"><img align="center" src="https://github.com/BhagatSurya/BhagatSurya/blob/main/icons8-twitter-squared-48.png" alt="bhagatsurya2" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/bhagat surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagat surya" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhagat surya 228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhagat surya 228" height="30" width="40" /></a>
