@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhagatsurya2" target="blank"><img align="center" src="https://github.com/BhagatSurya/BhagatSurya/blob/main/icons8-twitter.gif" alt="bhagatsurya2" height="40" width="40" /></a>
+<a href="https://twitter.com/bhagatsurya2" target="blank"><img align="center" src="https://github.com/BhagatSurya/BhagatSurya/blob/main/icons8-twitter-squared-48.png" alt="bhagatsurya2" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/bhagat surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagat surya" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhagat surya 228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhagat surya 228" height="30" width="40" /></a>
 <a href="https://fb.com/bhagath surya anuradha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhagath surya anuradha" height="30" width="40" /></a>
