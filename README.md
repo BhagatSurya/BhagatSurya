@@ -14,6 +14,8 @@ It's Bhagat Surya from India, I am a passionate data science practitioner. I've 
 <img align="left" alt="Open cv" width="30px" style="padding-right:10px;" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" />
 <img align="left" alt="GCP" width="150px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/768px-Google_Cloud_logo.svg.png?20210208232155" />
  </p>
+ 
+ #
 
 ### Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/Bhagatsurya/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagat surya" height="30" width="40" /></a> 
