@@ -24,4 +24,4 @@ It's Bhagat Surya from India I am a passionate data science practitioner. I've b
 
 
 ### Find me around the web 🌎:
-- <a href="https://www.linkedin.com/in/Bhagatsurya/">LinkedIn</a> 💼
+- <a href="https://www.linkedin.com/in/Bhagatsurya/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagat surya" height="30" width="40" /></a>
