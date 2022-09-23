@@ -23,6 +23,9 @@ It's Bhagat Surya from India I am a passionate data science practitioner. I've b
 <a href="https://medium.com/@bhagatsurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhagatsurya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bhagat surya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bhagat surya" height="30" width="40" /></a>
 </p>
+
+[![BhagatSurya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BhagatSurya&&theme=xcode)](https://github.com/BhagatSurya)
+
 <h3 align="left">Star ⭐</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatsurya&" alt="bhagatsurya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagatsurya&show_icons=true&locale=en" alt="bhagatsurya" /></p>
