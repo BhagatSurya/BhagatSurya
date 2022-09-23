@@ -14,8 +14,7 @@ It's Bhagat Surya from India, I am a passionate data science practitioner. I've 
 <img align="left" alt="Open cv" width="30px" style="padding-right:10px;" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" />
 <img align="left" alt="GCP" width="50px" style="padding-right:10px;" src="https://www.pngfind.com/pngs/m/307-3079051_blockapps-partners-with-google-cloud-platform-to-provide.png" />
 </p>
-
-
+<br>
 <!--[![BhagatSurya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BhagatSurya&&theme=xcode)](https://github.com/BhagatSurya)-->
 <p>
 <h3 align="left">📊 Stats</h3>
