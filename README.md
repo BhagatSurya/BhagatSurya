@@ -1,7 +1,7 @@
 ![ScreenShot](https://github.com/BhagatSurya/BhagatSurya/blob/99c4a47e075c952473599f56173881531cd66811/banner%20(1).png)
 
 ## 🛸 About Me
-It's Bhagat Surya from India, I am a passionate data science practitioner. I've been practicing since I was 18 years old. My love for computers is immeasurable. I enjoy studying psychology and anthropology. I started at a young age because I wanted an answer to one particular question that was promoting me. That was "How Humans Think." Can We Replicate a Digital Human Brain 🧠 ? This made me take AI as an answer to every question I wondered about the brain. Let's see where this journey takes me 🌊
+It's  Bhagat Surya Data Science Practitioner from India,I've been practicing since I was 18 years old. My love for computers is immeasurable. I enjoy studying psychology and anthropology. I started at a young age because I wanted an answer to one particular question that was promoting me. That was "How Humans Think." Can We Replicate a Digital Human Brain 🧠 ? This made me take AI as an answer to every question I wondered about the brain. Let's see where this journey takes me 🌊
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagatsurya&label=Profile%20views&color=0e75b6&style=flat" alt="bhagatsurya" /> </p>
 
 ### 🧰 Languages and Tools
