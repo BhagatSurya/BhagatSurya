@@ -17,10 +17,11 @@ It's Bhagat Surya from India, I am a passionate data science practitioner. I've 
 
 
 <!--[![BhagatSurya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BhagatSurya&&theme=xcode)](https://github.com/BhagatSurya)-->
-
+<p>
 <h3 align="left">📊 Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagatsurya&" alt="bhagatsurya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagatsurya&show_icons=true&locale=en" alt="bhagatsurya" /></p>
+</p>
 
 <h3 align="left">🔎Find me</h3>
 <a href="https://znap.link/BhagaSurya.AI">Bhagat surya's social media 🔗</a> 
