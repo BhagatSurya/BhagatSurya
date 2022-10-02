@@ -2,7 +2,6 @@
 
 ## 🛸 About Me
 It's  Bhagat Surya Data Science Practitioner from India,I've been practicing since I was 18 years old. My love for computers is immeasurable. I enjoy studying psychology and anthropology. I started at a young age because I wanted an answer to one particular question that was promoting me. That was "How Humans Think." Can We Replicate a Digital Human Brain 🧠 ? This made me take AI as an answer to every question I wondered about the brain. Let's see where this journey takes me 🌊
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagatsurya&label=Profile%20views&color=0e75b6&style=flat" alt="bhagatsurya" /> </p>
 
 ### 🧰 Languages and Tools
 <p align="left"> <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
