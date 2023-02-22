@@ -1,8 +1,13 @@
 ![ScreenShot](https://github.com/BhagatSurya/BhagatSurya/blob/99c4a47e075c952473599f56173881531cd66811/banner%20(1).png)
 
 ## 🛸 About Me
-It's  Bhagat Surya Data Science Practitioner from India,I've been practicing since I was 18 years old. My love for computers is immeasurable. I enjoy studying psychology and anthropology. I started at a young age because I wanted an answer to one particular question that was promoting me. That was "How Humans Think." Can We Replicate a Digital Human Brain 🧠 ? This made me take AI as an answer to every question I wondered about the brain. Let's see where this journey takes me 🌊
+**As a passionate data science enthusiast, I strive to use my skills and knowledge to uncover valuable insights from complex data sets. My experience in statistics, machine learning, and programming allows me to design and implement effective solutions to various data-driven problems.**
 
+**With a strong foundation in mathematics and computer science, I am constantly exploring new technologies and methodologies to improve my skills and stay up-to-date with the latest trends in data science. From data preprocessing to model selection and deployment, I enjoy every aspect of the data science process and am always eager to learn more.**
+
+**When I'm not coding or analyzing data, I love to share my knowledge and insights with the data science community through blog posts, tutorials, and open-source projects. Whether it's exploring new datasets, building predictive models, or visualizing data, I'm always up for a new challenge.**
+
+**So join me on this exciting journey as we uncover the hidden gems buried deep within our data and transform them into valuable insights that drive innovation and growth.**
 ### 🧰 Languages and Tools
 <p align="left"> <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
